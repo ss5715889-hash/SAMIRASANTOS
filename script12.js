@@ -37,7 +37,7 @@ const meusProjetos = [
     {
         titulo: "Projeto 01 - FitPlan PRO",
         descricao: "Um Sistema onde o usuário poderá cadastrar seus clientes e definir treinos especificos feita com HTML, CSS e JavaScript.",
-        link: "https://github.com/pedroalex/ecommerce"
+        link: "https://github.com/samirasanots/FitPlanPROe"
     },
 ];
 
