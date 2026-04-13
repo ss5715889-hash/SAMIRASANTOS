@@ -36,7 +36,7 @@ btnTema.addEventListener('click', alternarTema);
 const meusProjetos = [
     {
         titulo: "Projeto 01 - FitPlan PRO",
-        descricao: "Um Sistema onde o usuário poderá cadastrar seus clientes e definir treinos especificos feita com HTML, CSS e JavaScript.",
+        descricao: "Um Sistema onde sua empresa poderá cadastrar seus clientes e definir treinos especificos e individuais feita com HTML, CSS e JavaScript.",
         link: "https://github.com/samirasanots/FitPlanPROe"
     },
 ];
